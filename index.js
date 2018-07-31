@@ -10,3 +10,7 @@ function whisper(param1) {
 function logShout(param1) {
   console.log(param1.toUpperCase());
 }
+
+function logWhisper(param1) {
+  console.log(param1.toLowerCase());
+}
